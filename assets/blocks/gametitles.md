@@ -26,6 +26,22 @@
   </thead>
   <tbody>
     <tr>
+      <td>AA</td>
+      <td><i>NDA</i></td>
+      <td>MMO</td>
+      <td><i>NDA</i></td>
+      <td>Go, React, UE5</td>
+      <td>Staff engineer</td>
+    </tr>
+    <tr>
+      <td>AA</td>
+      <td>Storm Lancers</td>
+      <td>Roguelite</td>
+      <td>Probably Monsters</td>
+      <td>C++, UE5</td>
+      <td>Gameplay engineer (controller input)</td>
+    </tr>
+    <tr>
       <td>AAA</td>
       <td>Project Ghost</td>
       <td>MMORPG</td>
@@ -47,7 +63,7 @@
       <td>Shooter</td>
       <td>The Coalition</td>
       <td><i>NDA</i></td>
-      <td>Online and Platform Services</td>
+      <td>Online and Platform Services (tech lead)</td>
     </tr>
     <tr>
       <td>Indie</td>

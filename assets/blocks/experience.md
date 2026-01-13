@@ -1,10 +1,18 @@
 #### Freelance
 
-_08/2021 - present_ ~ **Software engineer, freelance**
+_08/2021 - present_ ~ **Lead/staff software engineer, freelance**
 
-I currenly work as a freelance software engineer. A dedicated page for which can be found [here](/freelance/).
+I currenly work as a freelance software engineer, in either lead or staff positions. A dedicated page for which can be found [here](/freelance/).
 
 #### Companion Group Ltd.
+
+_11/2025 - present_ ~ **Staff engineer for [AA, MMO]**
+
+_Details will be added in due time._
+
+_09/2025 - 11/2025_ ~ **Gameplay engineer for Storm Lancers (ProbablyMonsters)**
+
+Worked on Xbox+DualSense controller input support for PC port of the game, both for EGS (custom logic with RawInput) and Steam (Steam Input API). Additionally contributed to Steamdeck support.
 
 _05/2025 - 09/2025_ ~ **Senior game backend/SRE engineer for Project Ghost (Fantastic Pixel Castle)**
 
