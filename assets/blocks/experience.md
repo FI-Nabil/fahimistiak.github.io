@@ -117,11 +117,11 @@ _05/2015 - 05/2018_ ~ **Owner, founder and developer**
 
 Nooijen Solutions is a web designing/develop business that aims to creates beautiful websites and web apps. I worked here as one of the main developers (Wordpress, html, css, php, js, server-work) and I also do all of the administrative work.
 
-#### Chemiewinkel.com
+#### Chemiewinkel
 
 _07/2014 - 12/2018_ ~ **Owner and founder**
 
-In the summer vacation of 2014, I started Chemiewinkel.com. The reason why I started a webshop in lab supplies as a 15-year-old, was because I was (and still am!) fascinated by chemistry, and supplies for hobby chemists were very hard to come by. I built and managed the webshop.
+In the summer vacation of 2014, I started Chemiewinkel. The reason why I started a webshop in lab supplies as a 15-year-old, was because I was (and still am!) fascinated by chemistry, and supplies for hobby chemists were very hard to come by. I built and managed the webshop.
 
 ## Volunteer experience
 
